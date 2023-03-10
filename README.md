@@ -51,7 +51,7 @@ Para subir el tag haremos uso el comando de git push origin v0.1
 
 | NOMBRE | GITHUB |
 | ------ | ------ |
-| Máximo Fernández Riera| (https://github.com/maximofernandezriera)       |
+| Máximo Fernández Riera| [enlace a github 1](https://github.com/maximofernandezriera)       |
 
 ### Crear una rama
 
