@@ -76,7 +76,7 @@ Para poder ver cuáles son los commits que hemos realizadohasta el momento solo 
 ### Creación y clonacion del fork
 
 Para ello nos vamos a dirigir a al repoositorio de Github al cual queremos realizar el fork y una vez allí buscaremos en la parte superior a la derecha donde nos aparecerá una opción para poder realizar el fork. Seguiremos los pasos necesarios para crear el fork y una vez finalizado ya tendriamos nuestra propia bifurcación ahora para poder realizar los cambios que creamos necesarios. A continuación haremos un git clone https://github.com/IsaacLolade/first-contributions.git para poder hacer uso de este repositorio en la terminal de git bash
-![Creación fork](ExamenGit\CrearFork.png)
+![Creación fork](/ExamenGit/CrearFork.png)
 ![Clonación fork](C:\Users\issssiiiiii\masterpidgey-examen\ExamenGit\clonaciondefork.png)
 
 ### Crear una rama
