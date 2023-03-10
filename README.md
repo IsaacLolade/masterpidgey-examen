@@ -29,6 +29,10 @@ Para realizar el push inicial haremos uso del comando git push origin main
 
 ![Push inicial](/ExamenGit/gitpush.png)
 
+### Colaborador
+
+![Collab](/ExamenGit/collab.png)
+
 ## Ignorar archivos
 
 ### Crear en el repositorio local un fichero llamado privado.txt.
