@@ -2,7 +2,7 @@
 
 ## Creación de repositrio
 
-![Creación](C:\Users\issssiiiiii\Pictures\Examen Git\crear repositorio.png)
+![Creación](C:\Users\issssiiiiii\Pictures\Examen Git\crearepo.png)
 
 ## Clonar repositorio
 
