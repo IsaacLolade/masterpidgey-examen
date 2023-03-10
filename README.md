@@ -18,7 +18,7 @@ Utilizaremos el comando git commit -m "commit inicial" cargar los cambios realiz
 
 ## Push inicial
 
-git push origin main
+Para realizar el push iniicial haremos uso del comando git push origin main
 
 ## Ignorar archivos
 
@@ -33,26 +33,25 @@ Haremos uso del comando mkdir privada para crear el directorio y realizaremos lo
 
 ### Realizar los cambios oportunos para que tanto el archivo como la carpeta sean ignorados por git.
 
-Haremos uso del comando nano .gitignore y una vez dentro pondremos el nombre de los archivos que queremos.
+Haremos uso del comando nano .gitignore y una vez dentro pondremos el nombre de los archivos que queremos. Al igual que antes deberemos de realizar tanto el git add como el commit, en micaso he decidido subir el commit juntado los dos pasos anteriores.
 
-### Añadir fichero 1.txt
+### Añadir fichero 1.txt en el repositorio local
 
-Haremos uso del comando nano privado.txt para crear el archivo.txt y realizaremos los mismos pasos que antes git add del archivo
+Haremos uso del comando nano 1.txt para crear el archivo.txt.
 
 ### Crear tag
 
-Utilizaremos el siguiente comando para poder crear un tag git tag <Nombre del tag>
+Utilizaremos el siguiente comando para poder crear un tag git tag v0.1
 
 ### Subir tag
 
-Realizaremos los mismos pasos que antes git add del tag, commit y el git push <nombre del tag>
+Para subir el tag haremos uso el comando de git push origin v0.1
 
 ### Crear una tabla
 
 | NOMBRE | GITHUB |
 | ------ | ------ |
-|        |        |
-|        |        |
+| Máximo Fernández Riera| !(https://github.com/maximofernandezriera)       |
 
 ### Crear una rama
 
